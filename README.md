@@ -1,2 +1,3 @@
 # pipeline-mips
-a five stages pipeline mips cpu
+5级流水线MIPS CPU
+
